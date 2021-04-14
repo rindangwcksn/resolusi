@@ -5,3 +5,6 @@ rencana resolusi
 - figma
 - photoshop
 - bootstrap
+- php
+- laravel
+- phyton

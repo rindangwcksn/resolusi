@@ -4,6 +4,7 @@ rencana resolusi
 - vue
 - figma
 - bootstrap
-- angular
-- react
+- php
 - laravel
+- phyton
+- bikin kopi

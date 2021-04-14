@@ -8,3 +8,4 @@ rencana resolusi
 - php
 - laravel
 - phyton
+- bikin kopi

@@ -3,6 +3,5 @@ resolusi
 - kerja front-end dev
 - nabung
 - nikah
-- hp baru
 - seperangkat pc
-
+- mapan

@@ -3,5 +3,7 @@ rencana resolusi
 - node
 - vue
 - figma
-- photoshop
 - bootstrap
+- angular
+- react
+- laravel

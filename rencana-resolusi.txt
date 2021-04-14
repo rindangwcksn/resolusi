@@ -1,0 +1,6 @@
+rencana resolusi 
+- react
+- node
+- vue
+- figma
+- photoshop

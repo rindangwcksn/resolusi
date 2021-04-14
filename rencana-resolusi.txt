@@ -4,3 +4,4 @@ rencana resolusi
 - vue
 - figma
 - photoshop
+- bootstrap
